@@ -23,7 +23,7 @@ Arvato Financial Solutions would like to use demographic information from indivi
 * Gradient Boosting
 
 ### 3. Summary of the results
-The customers population is separated into 9 segments, which helps to predict whether a customer are likely to become a customer of Arvato Financial Solutions. 
+The clustering analysis has identified 9 distinct segments, each highlighting specific characteristics that are key indicators of an individual's likelihood to become a customer of our company
 
 <img width="421" alt="image" src="https://github.com/JOHNNIENYC/Customer-Segmentation-Report-for-Arvato-Financial/assets/108529441/b345c0d2-d164-4f0d-9fc2-117c64ec97dc">
 
