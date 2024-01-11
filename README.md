@@ -23,8 +23,15 @@ Arvato Financial Solutions would like to use demographic information from indivi
 * Gradient Boosting
 
 ### 3. Summary of the results
+The customers population is separated into 9 segments, which helps to predict whether a customer are likely to become a customer of Arvato Financial Solutions. 
 
-### Files related to the project
+<img width="221" alt="image" src="https://github.com/JOHNNIENYC/Customer-Segmentation-Report-for-Arvato-Financial/assets/108529441/b345c0d2-d164-4f0d-9fc2-117c64ec97dc">
+
+<img width="186" alt="image" src="https://github.com/JOHNNIENYC/Customer-Segmentation-Report-for-Arvato-Financial/assets/108529441/237c0580-9d1a-493a-b624-c7b50ec4aff3">
+
+
+
+### 4. Files related to the project
 
 * Udacity_AZDIAS_052018.csv: Demographics data for the general population of Germany; 891 211 persons (rows) x 366 features (columns)
 * Udacity_CUSTOMERS_052018.csv: Demographics data for customers of a mail-order company; 191 652 persons (rows) x 369 features (columns)
