@@ -3,10 +3,10 @@
 Arvato Financial Solutions would like to use demographic information from individuals to decide whether or not it is worth it to include the individual in the campaign. The project is designed to address the challenge through unsupervised learning and supervised learning. 
 
 ### 1. Library used
-* pandas
-* numpy
-* sklearn
-* matplotlib
+* Pandas
+* Numpy
+* Sklearn
+* Matplotlib
 
 ### 2. Strucuture of Project
 1). Data preprocessing
@@ -25,9 +25,9 @@ Arvato Financial Solutions would like to use demographic information from indivi
 ### 3. Summary of the results
 The customers population is separated into 9 segments, which helps to predict whether a customer are likely to become a customer of Arvato Financial Solutions. 
 
-<img width="221" alt="image" src="https://github.com/JOHNNIENYC/Customer-Segmentation-Report-for-Arvato-Financial/assets/108529441/b345c0d2-d164-4f0d-9fc2-117c64ec97dc">
+<img width="421" alt="image" src="https://github.com/JOHNNIENYC/Customer-Segmentation-Report-for-Arvato-Financial/assets/108529441/b345c0d2-d164-4f0d-9fc2-117c64ec97dc">
 
-<img width="186" alt="image" src="https://github.com/JOHNNIENYC/Customer-Segmentation-Report-for-Arvato-Financial/assets/108529441/237c0580-9d1a-493a-b624-c7b50ec4aff3">
+<img width="386" alt="image" src="https://github.com/JOHNNIENYC/Customer-Segmentation-Report-for-Arvato-Financial/assets/108529441/237c0580-9d1a-493a-b624-c7b50ec4aff3">
 
 
 
