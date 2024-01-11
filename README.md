@@ -12,9 +12,11 @@ Arvato Financial Solutions would like to use demographic information from indivi
 1). Data preprocessing
 * Feature engineering
 * Missing value handling
+  
 2). Customer Segmentation
 * Principal component analysis
 * K-means clustering
+  
 3). Supervised learning
 * Random Forest
 * Logistic Regression
