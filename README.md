@@ -31,9 +31,9 @@ The clustering analysis has identified 9 distinct segments, each highlighting sp
 <img width="386" alt="image" src="https://github.com/JOHNNIENYC/Customer-Segmentation-Report-for-Arvato-Financial/assets/108529441/237c0580-9d1a-493a-b624-c7b50ec4aff3">
 
 
-
-### 4. Files related to the project
-
+### 5. Acknowledgement
+Data Source: AZ Direct GmbH
+Dataset:
 * Udacity_AZDIAS_052018.csv: Demographics data for the general population of Germany; 891 211 persons (rows) x 366 features (columns)
 * Udacity_CUSTOMERS_052018.csv: Demographics data for customers of a mail-order company; 191 652 persons (rows) x 369 features (columns)
 * Udacity_MAILOUT_052018_TRAIN.csv: Demographics data for individuals who were targets of a marketing campaign; 42 982 persons (rows) x 367 (columns)
