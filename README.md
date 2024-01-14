@@ -33,6 +33,7 @@ The clustering analysis has identified 9 distinct segments, each highlighting sp
 
 ### 5. Acknowledgement
 Data Source: AZ Direct GmbH
+
 Dataset:
 * Udacity_AZDIAS_052018.csv: Demographics data for the general population of Germany; 891 211 persons (rows) x 366 features (columns)
 * Udacity_CUSTOMERS_052018.csv: Demographics data for customers of a mail-order company; 191 652 persons (rows) x 369 features (columns)
