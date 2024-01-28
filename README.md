@@ -43,4 +43,4 @@ Dataset:
 * DIAS Information Levels - Attributes 2017.xlsx: a top-level list of attributes and descriptions, organized by informational category
 
 ### 6. Reference
-* Interpretation of the Principal Components. https://online.stat.psu.edu/stat505/lesson/11/11.4
+1). Interpretation of the Principal Components. https://online.stat.psu.edu/stat505/lesson/11/11.4
