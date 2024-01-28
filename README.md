@@ -41,3 +41,6 @@ Dataset:
 * Udacity_MAILOUT_052018_TEST.csv: Demographics data for individuals who were targets of a marketing campaign; 42 833 persons (rows) x 366 (columns)
 * DIAS Attributes - Values 2017.xlsx: a detailed mapping of data values for each feature in alphabetical order
 * DIAS Information Levels - Attributes 2017.xlsx: a top-level list of attributes and descriptions, organized by informational category
+
+### 6. Reference
+1. Interpretation of the Principal Components. https://online.stat.psu.edu/stat505/lesson/11/11.4
