@@ -1,6 +1,6 @@
 # Customer-Segmentation-Report-for-Arvato-Financial
 
-Arvato Financial Solutions would like to use demographic information from individuals to decide whether or not it is worth it to include the individual in the campaign. The project is designed to address the challenge through unsupervised learning and supervised learning. The project is posted in [Medium](https://medium.com/@johnnielinkein/customer-segmentation-report-for-arvato-financial-solutions-cce681555a1f). 
+Arvato Financial Solutions would like to use demographic information from individuals to decide whether or not it is worth it to include the individual in the campaign. The project is designed to address the challenge through unsupervised learning and supervised learning. 
 
 
 ### 1. Library used
